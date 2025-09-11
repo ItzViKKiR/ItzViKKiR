@@ -1,16 +1,23 @@
-## Hi there 👋
+<h2 align="left">About me</h2>
 
-<!--
-**ItzViKKiR/ItzViKKiR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">✨ You can call me Vik/Thao/Yen.<br>📚 Currently a freshman at NUST MISIS.<br>🎯 Goals: find the program i like, learn 3d and other languages.<br>🌐 Languages: russian/english/vietnamese.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="left">
+  <a href="https://discord.com/users/981544511186567168" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItzViKKiR/ItzViKKiR/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ItzViKKiR/ItzViKKiR/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ItzViKKiR/ItzViKKiR/output/pacman-contribution-graph.svg">
+</picture>
+
+###
