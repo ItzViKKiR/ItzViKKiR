@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">✨ You can call me Vik/Thao/Yen.<br>📚 Currently a freshman at NUST MISIS.<br>🎯 Goals: find the program i like, learn 3d and other languages.<br>🌐 Languages: russian/english/vietnamese.</p>
+<p align="left">✨ You can call me Vik/Thao/Yen.<br>📚 Currently a freshman at NUST MISIS.<br>🎯 Goals: find the program i like, learn 3d and other languages.<br></p>
 
 ###
 
